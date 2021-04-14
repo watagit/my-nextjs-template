@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
 
-const     Index: NextPage = () => {
+const       Index: NextPage = () => {
   return <>Index</>;
 };
 

@@ -11,16 +11,8 @@
     "lint:fix": "eslint --fix . --ext .js,.jsx,.ts,.tsx",
     "format": "prettier --write ."
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "pnpm lint",
-      "pmpn format"
-    ]
+  "simple-git-hooks": {
+    "post-commit": "pnpm format"
   },
   "license": "MIT",
   "dependencies": {
