@@ -18,8 +18,8 @@
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
-      "pnpm lint",
-      "pnpm format"
+      "eslint --fix",
+      "prettier --write"
     ]
   },
   "license": "MIT",
