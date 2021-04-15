@@ -1,3 +1,3 @@
-# nextjs-template
+# My Next.js template
 
-よく使う Next.js のテンプレート
+<img src="https://img.shields.io/static/v1?label=Next.js&message=10.1.3&color=000&logo=Next.js&style=flat-square"> <img src="https://img.shields.io/static/v1?&logo=eslint&label=ESLint&message=7.24.0&color=4B32C3&style=flat-square"> <img src="https://img.shields.io/static/v1?&logo=prettier&label=Prettier&message=2.2.1&color=F7B93E&style=flat-square"> <img src="https://img.shields.io/static/v1?&logo=tailwind-css&label=&logoColor=fff&message=Tailwind%20CSS&color=38b2ac&style=flat-square"> <img src="https://img.shields.io/static/v1?&logo=storybook&label=&logoColor=fff&message=Storybook&color=ff4785&style=flat-square">
